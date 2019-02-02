@@ -1,0 +1,24 @@
+
+body {
+    background-image: url("../../images/station-bg.jpg");
+}
+
+.jumbotron {
+    margin-top: 2%;
+    color: lightgoldenrodyellow;
+    background: rgba(200, 54, 54, 0.5); 
+    border: 1px solid lightgoldenrodyellow;
+}
+
+.panel {
+    background: lightgoldenrodyellow;
+}
+
+.glyphicon {
+	float: right;
+}
+
+#submit {
+    color: lightgoldenrodyellow;
+    background: rgba(200, 54, 54);
+}
